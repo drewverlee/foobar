@@ -4,4 +4,4 @@
 (defn -main
   "I don't do a whole lot ... yet."
   [& args]
-  (println {:hello :world}))
+  (println {:hello :world :is :amazing}))
